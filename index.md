@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+## миротель(mirotel) трускавец цены 2017
 
-You can use the [editor on GitHub](https://github.com/SanatoriiTruskavca/truskavets/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Санаторий [миротель(mirotel) трускавец](http://sanatoriitruskavca.com/truskavets/read/mirotel.html)  получить на современном Медицинском комплексе Мед-Палас, с которым Миротель соединен внутренним переходом.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Профили лечения:
 
-### Markdown
+* Заболевания опорно-двигательного аппарата
+* Заболевания системы кровообращения и сердечно-сосудистой системы
+* Заболевания нервной системы
+* Заболевания эндокринной системы и нарушения обмена веществ
+* Заболевания желудочно-кишечного тракта
+* Заболевания органов дыхания и ЛОР-органов
+* Аллергические и хронические заболевания кожи
+* Урологические заболевания
+* Гинекологические заболевания
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Диагностическая база:
 
-```markdown
-Syntax highlighted code block
+* Отделение лабораторной диагностики
+* Отделение функциональной диагностики
+* Ультра-звуковые исследования
+* Рентгенодиагностические исследования
+* Отделение эндоскопических исследований
 
-# Header 1
-## Header 2
-### Header 3
+Лечебная база:
+ 
+	
+лечебно-диагностический центр Мед-Палас
+ 
+ 
+* Бювет минеральных вод
+* Бальнеологическое отделение
+* Отделение гидропатии
+* Отделение грязелечения
+* Отделение аппаратной физиотерапии
+* Ингаляторий
+* Массажное отделение
+* Процедурные кабинеты
+* Лечебные кабинеты
+* Кабинеты нетрадиционной медицины
+* Спелеокамера
 
-- Bulleted
-- List
+Методы лечения:
 
-1. Numbered
-2. List
+* Лечение минеральной водой
+* Бальнеотерапия
+* Души
+* Орошения минеральной водой
+* Грязелечение
+* Аппаратная физиотерапия
+* Ингаляции
+* Спелеотерапия
+* Массажное отделение
+* Парафино-озокеритное лечения
+* Колопроктологии
+* Ароматерапия
+* Кислородный коктейль
+* Теренкуротерапия
+* Психотерапия
+* Гинекологические процедуры
+* Урологические процедуры
 
-**Bold** and _Italic_ and `Code` text
+Специалисты:
 
-[Link](url) and ![Image](src)
-```
+* терапевт
+* уролог
+* гинеколог
+* окулист
+* отоларинголог
+* хирург
+* гастроэнтеролог
+* эндокринолог
+* кардиолог
+* психотерапевт
+* физиотерапевт
+* проктолог
+* стоматолог
+* педиатр
+* диетолог
+* дермато-венеролог
+* врач-лаборант
+* врач восстановительной медицины
+ 
+ 
++38 (097) 95 - 12 - 008  
++38 (068) 90 - 02 - 026
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SanatoriiTruskavca/truskavets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
